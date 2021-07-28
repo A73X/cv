@@ -145,7 +145,7 @@ theme = "devresume"
 
         [[params.experience.list]]
         title = "Administrateur / Support niveau 3"
-        dates = "En cours"
+        dates = "Décembre 2019 à Juillet 2021"
         company = "Luceor"
         #details = "Traitement des incidents clients, mais aussi :"
         [[params.experience.list.items]]
@@ -163,7 +163,7 @@ theme = "devresume"
 
         [[params.experience.list]]
         title = "Technicien support niveau 3"
-        dates = "Dec 19 - Jui 21"
+        dates = "Novembre 2018 à Décembre 2019"
         company = "Luceor"
         #details = "Traitement des incidents clients, mais aussi :"
         [[params.experience.list.items]]
@@ -177,7 +177,7 @@ theme = "devresume"
 
         [[params.experience.list]]
         title = "Technicien de proximité"
-        dates = "Jan 18 – Sept 18"
+        dates = "Janvier 2018 à Septembre 2018"
         company = "Siège de Bouygues Construction"
         [[params.experience.list.items]]
         details = "Traitement incidents hardware et software."
