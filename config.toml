@@ -163,7 +163,7 @@ theme = "devresume"
 
         [[params.experience.list]]
         title = "Technicien support niveau 3"
-        dates = "Nov 18"
+        dates = "Dec 19 - Jui 21"
         company = "Luceor"
         #details = "Traitement des incidents clients, mais aussi :"
         [[params.experience.list.items]]
