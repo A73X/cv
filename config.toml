@@ -94,7 +94,7 @@ theme = "devresume"
         university = "ASTON SQLI"
         dates = "2018 - 2019"
         [[params.education.list]]
-        degree = "MMIR - Maintenicien en Micro-Informatique et Réseaux - BAC"
+        degree = "MMIR - Maintenicien en Micro-Informatique et Réseau - BAC"
         university = "ASTON SQLI"
         dates = "2017 - 2018"
 
