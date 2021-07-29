@@ -82,16 +82,20 @@ theme = "devresume"
         enable = true
 
         [[params.education.list]]
-        degree = "ASRC - Administrateur Systèmes, Réseaux et Cloud - BAC +4"
-        university = "ASTON SQLI GROUP"
+        degree = "ESD - Expert en Sécurité Digitale - BAC +5"
+        university = "ASTON SQLI"
+        dates = "2021 - 2022" 
+        [[params.education.list]]
+        degree = "ASRC - Administrateur Système, Réseau et Cloud - BAC +4"
+        university = "ASTON SQLI"
         dates = "2019 - 2021"        
         [[params.education.list]]
-        degree = "TSRS - Technicien Système Réseaux et Sécurité - BAC +2"
-        university = "ASTON SQLI GROUP"
+        degree = "TSRS - Technicien Système Réseau et Sécurité - BAC +2"
+        university = "ASTON SQLI"
         dates = "2018 - 2019"
         [[params.education.list]]
         degree = "MMIR - Maintenicien en Micro-Informatique et Réseaux - BAC"
-        university = "ASTON SQLI GROUP"
+        university = "ASTON SQLI"
         dates = "2017 - 2018"
 
 
