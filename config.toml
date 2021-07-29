@@ -141,7 +141,7 @@ theme = "devresume"
 
     [params.summary]
         enable = true
-        text = "J'ai 29 ans et je suis passionné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur systèmes et réseaux."
+        text = "J'ai 29 ans et je suis passionné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur système et réseau."
 
 
     [params.experience]
