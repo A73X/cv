@@ -151,7 +151,6 @@ theme = "devresume"
         title = "Administrateur / Support niveau 3"
         dates = "Décembre 2019 à Juillet 2021"
         company = "Luceor"
-        #details = "Traitement des incidents clients, mais aussi :"
         [[params.experience.list.items]]
         details = "Assistance Avant-vente & PS"        
         [[params.experience.list.items]]
@@ -159,7 +158,7 @@ theme = "devresume"
         [[params.experience.list.items]]
         details = "Assistance production"
         [[params.experience.list.items]]
-        details = "Support interne bureautique Luceor"
+        details = "Administration de l'informatique interne à l'entreprise"
         [[params.experience.list.items]]
         details = "Prise en charge de toute la chaine SAV"
 
@@ -175,7 +174,7 @@ theme = "devresume"
         [[params.experience.list.items]]
         details = "Mise en place de plateforme de tests"
         [[params.experience.list.items]]
-        details = "Administration de l'informatique interne à l'entreprise"
+        details = "Support interne bureautique Luceor"
         [[params.experience.list.items]]
         details = "Gestion du SAV"
 
