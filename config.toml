@@ -141,11 +141,22 @@ theme = "devresume"
 
     [params.summary]
         enable = true
-        text = "J'ai 29 ans et je suis passionné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur système et réseau."
+        text = "J'ai 29 ans et je suis passionné par l'IT. Je suis actuellement en poste d’auditeur cybersécurité en alternance chez Risk&Co dans le but de valider un niveau BAC+5 en octobre 2022."
 
 
     [params.experience]
         enable = true
+
+        [[params.experience.list]]
+        title = "Auditeur en cybersécurité"
+        dates = "En cours"
+        company = "Risk&Co"
+        [[params.experience.list.items]]
+        details = "Audit d’organisation"        
+        [[params.experience.list.items]]
+        details = "Audit d’architecture"
+        [[params.experience.list.items]]
+        details = "Audit de configuration"
 
         [[params.experience.list]]
         title = "Administrateur / Support niveau 3"
@@ -263,7 +274,7 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Ce que j'aimerais faire par la suite ..."
         meta = ""
-        tagline = "Je souhaite poursuivre mes études dans le domaine de la cybersécurité (BAC +5)."
+        tagline = "Je poursuis actuellement mes études dans le domaine de la cybersécurité, j'aimerais par la suite intégrer un SOC (Security Operation Center)."
 
         #[[params.projects.list]]
         #title = "Project Sed Fringilla"
