@@ -19,7 +19,7 @@ theme = "devresume"
     [params.profile]
         enable = true
         name = "Alexandre MALESCOT"
-        tagline = "Administrateur Systèmes/Réseaux et Cloud"
+        tagline = "Auditeur en Cybersécurité"
         avatar = "avatar.png"
 
 
